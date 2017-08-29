@@ -2,6 +2,7 @@
 
 ## How to install
 pip install chainer
+
 pip install pillow
 
 ## How to use
